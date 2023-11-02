@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Nurdooot Uranov
+- 👀 I’m interested in Fronted-Developer and Software Developer
+- 🌱 I’m currently learning Html , Css , Javascript 
+- 📫 How to reach me @uranov.n.de@gmail.com
